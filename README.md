@@ -8,15 +8,15 @@
 
   
 
-- 🔭 I’m currently working on a [Simplified Job Board]()
+- 🔭 I’m currently working on a Simplified Job Board
 
   
 
-- 🌱 I enjoy working with React**
+- 🌱 I enjoy working with React
 
   
 
-- 👨‍💻 All of my projects(Still adding more projects) are available at [Developed By Armando](https://www.developedbyarmando.com)
+- 👨‍💻 All of my projects(Still adding more projects) are available at [Developed By Mando](https://www.developedbymando.com)
 
   
 
