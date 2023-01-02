@@ -8,19 +8,19 @@
 
   
 
-- 🔭 I’m currently working on a [Swipe Music Player](http://swipe-jamz.netlify.app/)
+- 🔭 I’m currently working on a [Simplified Job Board]()
 
   
 
-- 🌱 I’m currently learning **React,  Always working with the MERN Stack**
+- 🌱 I enjoy working with React**
 
   
 
-- 👨‍💻 All of my projects are available at [http://arod1207.netlify.com/](http://arod1207.netlify.com/)
+- 👨‍💻 All of my projects(Still adding more projects) are available at [Developed By Armando](https://www.developedbyarmando.com)
 
   
 
-- 💬 Ask me about **HTML, CSS, Js, React, The MERN Stack**
+- 💬 Ask me about **HTML, CSS, Js, React**
 
   
 
@@ -28,7 +28,7 @@
 
   
 
-- 📄 Checkout my  [Resume](https://drive.google.com/file/d/1vC5AgLy7EIQIh8zk1--BXbU3uREqJoHw/view?usp=sharing)
+- 📄 Checkout my  [Resume](https://drive.google.com/file/d/1SAK48ZFqlL7eHwlt2GN8lLJ5cwwIvNkm/view?usp=share_link)
 
   
 
