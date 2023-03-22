@@ -28,7 +28,7 @@
 
   
 
-- 📄 Checkout my  [Resume](https://drive.google.com/file/d/1SAK48ZFqlL7eHwlt2GN8lLJ5cwwIvNkm/view?usp=share_link)
+- 📄 Checkout my  [Resume](https://drive.google.com/file/d/1o0V88uU0zhRrft5GFdqrSx_eahOW8dSF/view?usp=sharing)
 
   
 
