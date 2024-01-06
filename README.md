@@ -8,19 +8,19 @@
 
   
 
-- 🔭 I’m currently working on a Simplified Job Board
+- 🔭 Always thinking about how I can solve everyday problems.
 
   
 
-- 🌱 I enjoy working with React
+- 🌱 Coding is not only my career, but it is also my hobby.
 
   
 
-- 👨‍💻 All of my projects(Still adding more projects) are available at [Developed By Mando](https://www.developedbymando.com)
+- 👨‍💻 I am currently creating a new portfolio. [Developed By Mando](https://www.developedbymando.com)
 
   
 
-- 💬 Ask me about **HTML, CSS, Js, React**
+- 💬 Ask me about **HTML, CSS, JS, React, React Native**
 
   
 
@@ -28,7 +28,7 @@
 
   
 
-- 📄 Checkout my  [Resume](https://drive.google.com/file/d/1o0V88uU0zhRrft5GFdqrSx_eahOW8dSF/view?usp=sharing)
+- 📄 Updated Resume coming soon!
 
   
 
